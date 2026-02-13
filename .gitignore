@@ -1,0 +1,4 @@
+*.zip
+Assignment 1/pedestrian_detection_images/
+__pycache__/
+.ipynb_checkpoints/
